@@ -1,4 +1,4 @@
-### Completed projects from MITx 6.86xMachine Learning with Python-From Linear Models to Deep Learning course
+### Completed projects from MITx 6.86xMachine Learning with Python course
 
 https://www.edx.org/course/machine-learning-with-python-from-linear-models-to
 
