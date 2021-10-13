@@ -2,7 +2,7 @@
 
 https://www.edx.org/course/machine-learning-with-python-from-linear-models-to
 
- ## In this course, I learned about principles and algorithms for turning training data into effective automated predictions. We will cover:
+ ## In this course, I learned about principles and algorithms for turning training data into effective automated predictions. Covered topics:
 
 1. Representation, over-fitting, regularization, generalization, VC dimension;
 2. Clustering, classification, recommender problems, probabilistic modeling, reinforcement learning;
